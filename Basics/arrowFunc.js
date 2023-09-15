@@ -1,4 +1,4 @@
-// Замените код Function Expression стрелочной функцией:
+﻿// Замените код Function Expression стрелочной функцией:
 'use strict';
 
 function ask(question, yes, no) {
